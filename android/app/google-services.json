@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "568199341849",
+    "project_id": "pastorlili",
+    "storage_bucket": "pastorlili.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568199341849:android:79df46d117521579040788",
+        "android_client_info": {
+          "package_name": "com.example.pastor_lili"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568199341849-v6c768e3e9akk34dpnogpihrorhdoo7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pastor_lili",
+            "certificate_hash": "ff4c6b266b2629d0a36daecb1d391cee8b59303e"
+          }
+        },
+        {
+          "client_id": "568199341849-1cu4ts7gg5vh2dfklficbb6a3qvve25s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3bagLL8qhTWYu6MCjqhlWiyd-yNHxIok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568199341849-1cu4ts7gg5vh2dfklficbb6a3qvve25s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "568199341849-fcpflkm4q84ld1gmttqra7ih09msqjf0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pastorLili"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
